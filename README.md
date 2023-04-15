@@ -14,7 +14,7 @@ developers as well as other team members to create and deliver commercial web ap
 
 - :zap: I want to find a job soon!
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-bakytow3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakytow3) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bakytovnurislam38@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-bakytow3-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/bakytow3) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:bakytovnurislam38@gmail.com)
 
 ---
 
